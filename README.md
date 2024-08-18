@@ -40,20 +40,9 @@ Projeye başlamadan önce enerji tüketimi verisini içe aktardık ve veri setin
 
 Modelimizin performansını değerlendirdik ve tahminlerin doğruluğunu inceledik. Sonuçlar, modelin doğruluğunu ve geçerliliğini gösterir.
 
-## License.txt
+## Lisans
 
-MIT License
-
-Telif Hakkı (c) 2024 İbrahim Püsküllü
-
-Bu yazılım ve ilişkili belgeler ("Yazılım"), lisans sahibi tarafından kullanım, kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, alt lisanslama ve/veya satma dahil olmak üzere sınırlama olmaksızın işlenir ve kullanılır, 
-böylece aşağıdaki koşullar yerine getirilir:
-
-Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi, yazılımın tüm kopyalarında veya önemli kısımlarında yer almalıdır.
-
-YAZILIM "AS IS" DURUMUNDA, HERHANGİ BİR GARANTİ OLMAKSIZIN, AÇIK VEYA ZIMNİ, SATILABİLİRLİK, BELİRLİ BİR AMACA UYGUNLUK VEYA İHLAL OLMAMASI DA DAHİL ANCAK BUNLARLA SINIRLI OLMAKSIZIN HİÇBİR GARANTİ VERMEKSİZİN SAĞLANIR. 
-HİÇBİR KOŞULDA YAZARLAR VEYA TELİF HAKKI SAHİPLERİ HERHANGİ BİR TALEP, ZARAR VEYA DİĞER SORUMLULUK İÇİN, 
-YAZILIMLA VEYA YAZILIMIN KULLANIMI VEYA BAŞKA BAĞLANTI BİÇİMLERİ İLE İLGİLİ, SÖZLEŞME, HAKKANİYET VEYA BAŞKA BİR SEBEPLE SORUMLU TUTULAMAZ. BU YAZILIMIN KULLANIMI HAKKINDA HERHANGİ BİR İDDİAYI KABUL ETMEYİNİZ.
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
 
 ## Kurulum ve Kullanım
 
